@@ -1,0 +1,1 @@
+<img src="cloud_architecture.svg" alt="مخطط توضيحي لمعمارية التخزين السحابي ومراكز البيانات" width="600">
